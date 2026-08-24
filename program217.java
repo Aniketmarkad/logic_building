@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class NNumberX
+class NNumberX 
 {
     public int CountEven(int Arr[])
     {
