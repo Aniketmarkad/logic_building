@@ -1,7 +1,7 @@
 #include<stdio.h> 
 
 void strrevX(char *str)
-{
+{ 
     char *start = NULL;
     char *end = NULL;
     char temp = '\0';
