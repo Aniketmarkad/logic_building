@@ -8,7 +8,7 @@ void strrevX(char *str)
 
     start = str;
     end = str;
-
+ 
     while(*end != '\0')
     {
         end++;
